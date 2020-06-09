@@ -1,4 +1,7 @@
-
+variable "name" {
+  
+}
+  
 variable "region" {
   type = string
   default = "UK South"
