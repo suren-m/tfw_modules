@@ -20,6 +20,7 @@ variable region {
 variable tags {
     type = map 
     default = {
-      company = "contoso corp"
+    #   company = "contoso corp"
+      module_source = "github"
     }         
 }
